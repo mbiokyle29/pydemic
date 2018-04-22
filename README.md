@@ -1,0 +1,2 @@
+# pydemic
+Pandemic in Python
